@@ -1,0 +1,13 @@
+{
+  "name": "newt-cli",
+  "version": "0.1.0",
+  "license": "MIT",
+  "bin": {
+    "newt": "bin/newtjs-cli"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
